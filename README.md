@@ -37,4 +37,5 @@
 crontab 创建定时任务计划，使用run.sh脚本
 
 ### windows
-window - 任务计划程序 - 创建任务 - 固定间隔时间触发(eg:每小时) - 调用run.bat脚本
+window - 任务计划程序 - 创建任务 - 固定间隔时间触发(eg:每小时) - 调用run.bat脚本  
+如果在任务计划程序总是执行失败，修改run.bat为`C:\Users\Administrator\AppData\Local\Programs\Python\Python37-32\python.exe  C:\ddns\start.py`这样的全路径即可，其中两个文件改为自己文件的存放路径

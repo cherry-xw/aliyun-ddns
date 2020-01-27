@@ -1,9 +1,1 @@
-{
-    "AccessKeyID": "",
-    "AccessKeySecret": "",
-    "RegionId": "cn-hangzhou",
-    "DomainName": "",
-    "HostReacrd": "",
-    "Types": "A",
-    "CurrentIP": "0.0.0.0"
-}
+{"AccessKeyID": "", "AccessKeySecret": "", "RegionId": "cn-hangzhou", "DomainName": "", "HostReacrd": "", "Types": "A", "CurrentIP": "222.188.168.83"}
